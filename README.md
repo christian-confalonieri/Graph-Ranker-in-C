@@ -1,8 +1,10 @@
 <h1>GraphRanker</h1>
 
-GraphRanker is the final test of "**Algoritmi e principi dell'informatica**", course of "**Computer Science Engineering**" held at Politecnico di Milano (2020/2021).
+![GitHub](https://img.shields.io/github/license/christian-confalonieri/GraphRanker-Prova-Finale-API-2020-2021)
 
-**Teacher** Alessandro Barenghi
+GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Science Engineering**" held at Politecnico di Milano (2020/2021).
+
+**Teacher**: Alessandro Barenghi
 
 **Final Score**: 30 cum laude / 30
 
