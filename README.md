@@ -8,8 +8,6 @@ GraphRanker is the final test of "**Algoritmi e principi dell'informatica**", co
 
 <h2>Project specification</h2>
 
----
-
 - The goal of this project is to manage a ranking between weighted directed graphs;
 - The ranking keeps track of the k "best" graphs;
 - The program to be implemented receives as input:
@@ -38,8 +36,6 @@ The nodes of the graph are to be considered logically labeled with an integer in
 
 <h2>Copyright and license</h2>
 
----
-
 This project is copyright 2022.
 
-Licensed under the MIT License; you may not use this software except in compliance with the License.
+Licensed under the **[MIT License](https://github.com/christian-confalonieri/GraphRanker-Prova-Finale-API-2020-2021/blob/main/LICENCE.md)**; you may not use this software except in compliance with the License.
