@@ -1,6 +1,6 @@
 <h1>GraphRanker</h1>
 
-![GitHub](https://img.shields.io/github/license/christian-confalonieri/GraphRanker-Prova-Finale-API-2020-2021)
+[![License: MIT][license-image]][license]
 
 GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Science Engineering**" held at Politecnico di Milano (2020/2021).
 
@@ -40,4 +40,7 @@ The nodes of the graph are to be considered logically labeled with an integer in
 
 This project is copyright 2022.
 
-Licensed under the **[MIT License](https://github.com/christian-confalonieri/GraphRanker-Prova-Finale-API-2020-2021/blob/main/LICENCE.md)**; you may not use this software except in compliance with the License.
+Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
+
+[license]: https://github.com/christian-confalonieri/GraphRanker-Prova-Finale-API-2020-2021/blob/main/LICENCE.md
+[license-image]: https://img.shields.io/badge/License-MIT-blue.svg
