@@ -11,14 +11,14 @@ GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", co
 <h2>Project specification</h2>
 
 - The goal of this project is to manage a ranking between weighted directed graphs;
-- The ranking keeps track of the k "best" graphs;
-- The program to be implemented receives as input:
+- the ranking keeps track of the k "best" graphs;
+- the program to be implemented receives as input:
     - two parameters, once (on the first line of the file, separated by space)
-        - d: the number of nodes of the graphs
-        - k: the length of the ranking
-    - A sequence of commands between
-        - AggiungiGrafo (AddGraph) [adjacency matrix]
-        - TopK
+        - d: the number of nodes of the graphs;
+        - k: the length of the ranking;
+    - a sequence of commands between
+        - AggiungiGrafo (AddGraph) [adjacency matrix];
+        - TopK.
 
 <h2>AggiungiGrafo (AddGraph)</h2>
 
@@ -32,9 +32,9 @@ The nodes of the graph are to be considered logically labeled with an integer in
 
 - Consider each graph from the beginning of the program to the TopK command labeled with an integer index corresponding to the number of graphs read before it (starting from 0);
 - TopK prompts the program to print the integer indexes of the k graphs having the k smallest values of the following metric:
-    - Sum of the shortest paths between node 0 and all other nodes in the graph;
-- If there are multiple graphs with the same value of the metric, it gives precedence to the first ones;
-- The k integer indexes are printed, on a single line, separated by a space, in any order
+    - sum of the shortest paths between node 0 and all other nodes in the graph;
+- if there are multiple graphs with the same value of the metric, it gives precedence to the first ones;
+- the k integer indexes are printed, on a single line, separated by a space, in any order.
 
 <h2>Copyright and license</h2>
 
