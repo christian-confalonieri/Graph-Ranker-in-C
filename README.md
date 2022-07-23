@@ -4,7 +4,7 @@
 
 GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Science Engineering**" held at Politecnico di Milano (2020/2021).
 
-**Teacher**: Alessandro Barenghi
+**Professor**: Alessandro Barenghi
 
 **Final Score**: 30 cum laude / 30
 
