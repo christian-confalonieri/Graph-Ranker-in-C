@@ -2,7 +2,7 @@
 
 [![License: MIT][license-image]][license]
 
-GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Science Engineering**" held at Politecnico di Milano (2020/2021).
+GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Engineering**" held at Politecnico di Milano (2020/2021).
 
 **Professor**: Alessandro Barenghi
 
