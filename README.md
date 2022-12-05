@@ -1,8 +1,8 @@
-<h1>GraphRanker</h1>
+<h1>Graph Ranker</h1>
 
 [![License: MIT][license-image]][license]
 
-GraphRanker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Engineering**" held at Politecnico di Milano (2020/2021).
+Graph Ranker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Engineering**" held at Politecnico di Milano (2020/2021).
 
 **Professor**: Alessandro Barenghi
 
@@ -42,5 +42,5 @@ This project is copyright 2022.
 
 Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
 
-[license]: https://github.com/christian-confalonieri/GraphRanker-Prova-Finale-API-2020-2021/blob/main/LICENCE
+[license]: https://github.com/christian-confalonieri/Graph-Ranker-Prova-Finale-API-2020-2021/blob/main/LICENCE
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
