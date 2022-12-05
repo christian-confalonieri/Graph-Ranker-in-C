@@ -2,7 +2,7 @@
 
 [![License: MIT][license-image]][license]
 
-Graph Ranker is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Engineering**" held at Politecnico di Milano (2020/2021).
+This is the final test of "**Algoritmi e Principi dell'Informatica**", course of "**Computer Engineering**" held at Politecnico di Milano (2020/2021).
 
 **Professor**: Alessandro Barenghi
 
