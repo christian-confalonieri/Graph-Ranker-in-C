@@ -42,5 +42,5 @@ This project is copyright 2022.
 
 Licensed under the **[MIT License][license]**; you may not use this software except in compliance with the License.
 
-[license]: https://github.com/christian-confalonieri/Graph-Ranker-Prova-Finale-API-2020-2021/blob/main/LICENCE
+[license]: https://github.com/christian-confalonieri/Graph-Ranker-in-C/blob/main/LICENCE
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
